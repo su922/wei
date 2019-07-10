@@ -1,4 +1,2 @@
-b
-
 c
 the branch of master
